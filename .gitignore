@@ -1,0 +1,10 @@
+*.bak
+*.rpt
+*.summary
+db/
+*.db_info
+**/incremental_db
+output_files/
+simulation/
+*.qws
+*.rar
